@@ -1,2 +1,2 @@
 # InternetOfThings
-Lab Projects for Internet of Things
+Lab Projects
